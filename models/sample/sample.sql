@@ -1,1 +1,0 @@
-select * from dev.vv.raw_users
